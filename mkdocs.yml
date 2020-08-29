@@ -10,6 +10,7 @@ extra_javascript:
 
 markdown_extensions:
     - admonition
+    - mdx_truly_sane_lists
     - pymdownx.arithmatex
     - toc
 
@@ -26,4 +27,3 @@ theme:
   palette:
         primary: 'black'
         accent: 'deep-orange'
-
