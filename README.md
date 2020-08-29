@@ -1,5 +1,7 @@
-# 18-s097-applied-category-theory-january-iap-2019
+# 18-s097-applied-category-theory-january-iap-2019 
 Course notes for 18.S097: Applied Category Theory
+
+![Publish docs via GitHub Pages](https://github.com/sblack4/18-s097-applied-category-theory-january-iap-2019/workflows/Publish%20docs%20via%20GitHub%20Pages/badge.svg?branch=master)
 
 ## About 
 See
