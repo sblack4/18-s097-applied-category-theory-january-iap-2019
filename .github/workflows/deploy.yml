@@ -11,6 +11,11 @@ jobs:
     steps:
       - name: Checkout master
         uses: actions/checkout@v1
+        
+      - name: Build Docs
+        run: |
+          mkdir docs
+          cp README.md docs/
 
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
