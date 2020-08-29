@@ -1,11 +1,14 @@
 # 18-s097-applied-category-theory-january-iap-2019
+Course notes for 18.S097: Applied Category Theory
 
 ## About 
-Course notes for 18.S097: Applied Category Theory
+See
 - [MIT OCW site](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/index.htm)
 - [Brendon Fong's Site](http://brendanfong.com/7sketches.html)
+- [Video lectures on youtube](https://www.youtube.com/user/youdsp/playlists)
 
 ## Schedule
+from the syllabus
 
 | SES # | TOPICS                                                          | KEY DATES                                         |   |   |
 |-------|-----------------------------------------------------------------|---------------------------------------------------|---|---|
@@ -17,9 +20,12 @@ Course notes for 18.S097: Applied Category Theory
 | 11–12 | Chapter 6: Circuits: Hypergraph Categories and Operads          |                                                   |   |   |
 | 13–14 | Chapter 7: Logic of Behavior: Sheaves, Toposes, Languages       | Problem set 3 due in session 14                   |   |   |
 
-## Instructor Insights 
+## Instructor Insights
+[MIT OCW page](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/instructor-insights/)
 
 > Category theory has a history of being applied in mathematics itself. It helps structure many subdisciplines of math, and allows these subdisciplines to communicate with each other in a shared language. We wanted to show that this structuring and interoperability extends far beyond mathematics. When people see how it can be used in databases, programming languages, resource theories, quantum information, collaborative design, systems engineering, materials science, etc., they start to see the breadth of possibilities and consider how they can be part of the research effort. They start to think “categorically.”
+
+_^ David Spivak_
 
 This is something I'd love to see done in the sciences and humanitites.
 The ability to better communicate and relate findings is imperative to a holistic treatment of any difficulties.
@@ -27,3 +33,6 @@ Category theory gives us a shared language much more precise than our spoken lan
 I wonder what wittgenstein would have said about category theory. 
 
 ### Ch 1 Generative Effects: Orders and Adjunctions
+[MIT OCW page](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/lecture-videos-and-readings/chapter-1-generative-effects-orders-and-adjunctions/)
+
+
