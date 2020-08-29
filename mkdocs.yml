@@ -9,7 +9,7 @@ markdown_extensions:
     - toc
 
 nav:
-  - README.md
+  - home: 'README.md'
 
 plugins:
   - search
