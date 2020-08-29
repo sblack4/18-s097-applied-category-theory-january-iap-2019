@@ -6,4 +6,4 @@ docs/README.md
 pythonenv3.8
 
 # build. this is pushed to gh-pages
-build
+site
