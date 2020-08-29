@@ -2,7 +2,7 @@
 docs_dir: docs
 edit_uri: edit/master/docs
 repo_url: https://github.com/sblack4/18-s097-applied-category-theory-january-iap-2019
-site_description: Course notes for 18.S097: Applied Category Theory
+site_description: Course notes for 18.S097\: Applied Category Theory
 site_name: 18-s097-applied-category-theory-january-iap-2019
 
 markdown_extensions:
