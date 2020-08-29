@@ -16,6 +16,7 @@ jobs:
         run: |
           mkdir docs
           cp README.md docs/
+          pip install mdx_truly_sane_lists
 
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
