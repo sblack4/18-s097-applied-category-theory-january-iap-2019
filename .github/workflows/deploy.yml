@@ -21,4 +21,14 @@ jobs:
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    
+          
+      - uses: montudor/action-zip@v0.1.0
+        with:
+          args: zip -qq -r ./site.zip ./site
+          
+      - name: Upload a Build Artifact
+        uses: actions/upload-artifact@v2.1.4
+        with:
+          name: build-${{ GITHUB_SHA }}
+          # A file, directory or wildcard pattern that describes what to upload
+          path: site.gz
