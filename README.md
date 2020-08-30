@@ -5,6 +5,7 @@ Course notes for 18.S097: Applied Category Theory
 
 ## About 
 See:
+
 - [MIT OCW site](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/index.htm) 
 - [Brendon Fong's Site](http://brendanfong.com/7sketches.html) 
 - [Video lectures on youtube](https://www.youtube.com/user/youdsp/playlists) 
@@ -22,6 +23,9 @@ from the syllabus
 | 11–12 | Chapter 6: Circuits: Hypergraph Categories and Operads          |                                                   |   |   |
 | 13–14 | Chapter 7: Logic of Behavior: Sheaves, Toposes, Languages       | Problem set 3 due in session 14                   |   |   |
 
+## TOC 
+[TOC]
+
 ## Instructor Insights
 [MIT OCW page](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/instructor-insights/)
 
@@ -37,4 +41,22 @@ I wonder what wittgenstein would have said about category theory.
 ### Ch 1 Generative Effects: Orders and Adjunctions
 [MIT OCW page](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/lecture-videos-and-readings/chapter-1-generative-effects-orders-and-adjunctions/)
 
+Chapter Outline: 
 
+- 1.1 More than the sum of their parts
+    - 1.1.1 A first look at generative effects
+    - 1.1.2 Ordering systems
+- 1.2 What is order?
+    - 1.2.1 Review of sets, relations, and functions
+    - 1.2.2 Preorders
+    - 1.2.3 Monotone maps
+- 1.3 Meets and joins
+    - 1.3.1 Definition and basic examples
+    - 1.3.2 Back to observations and generative effects
+- 1.4 Galois connections
+    - 1.4.1 Definition and examples of Galois connections
+    - 1.4.2 Back to partitions
+    - 1.4.3 Basic theory of Galois connections
+    - 1.4.4 Closure operators
+    - 1.4.5 Level shifting
+- 1.5 Summary and further reading

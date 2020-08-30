@@ -9,25 +9,22 @@ extra_javascript:
     - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'
 
 markdown_extensions:
-    - admonition
-    - mdx_truly_sane_lists
-    - pymdownx.arithmatex
-    - toc
-
+  - admonition
+  - pymdownx.arithmatex
+  - toc
+  - smarty
+  # - sane_lists
+  - admonition
+  # - def_list
+  # - mdx_gh_links:
+  #     user: sblack4
+  #     repo: 18-s097-applied-category-theory-january-iap-2019
 nav:
   - Home: index.md
 
 plugins:
   - search
-  # - smarty
-  # - toc:
-      # permalink: True
-  # - sane_lists
-  # - admonition
-  # - def_list
-  # - mdx_gh_links:
-  #     user: sblack4
-  #     repo: 18-s097-applied-category-theory-january-iap-2019
+
 theme:
   name: 'material'
   feature:
