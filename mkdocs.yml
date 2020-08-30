@@ -15,11 +15,19 @@ markdown_extensions:
     - toc
 
 nav:
-  - home: 'README.md'
+  - Home: index.md
 
 plugins:
   - search
-  
+  # - smarty
+  # - toc:
+      # permalink: True
+  # - sane_lists
+  # - admonition
+  # - def_list
+  # - mdx_gh_links:
+  #     user: sblack4
+  #     repo: 18-s097-applied-category-theory-january-iap-2019
 theme:
   name: 'material'
   feature:
@@ -27,3 +35,4 @@ theme:
   palette:
         primary: 'black'
         accent: 'deep-orange'
+
