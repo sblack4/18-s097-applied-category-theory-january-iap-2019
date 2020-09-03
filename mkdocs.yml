@@ -19,8 +19,10 @@ markdown_extensions:
   # - mdx_gh_links:
   #     user: sblack4
   #     repo: 18-s097-applied-category-theory-january-iap-2019
-nav:
-  - Home: index.md
+# nav:
+#   - Home: index.md
+#   - 'Issue Tracker': 'https://github.com/sblack4/18-s097-applied-category-theory-january-iap-2019/issues'
+#   - Chapters: '/chapters/'
 
 plugins:
   - search
