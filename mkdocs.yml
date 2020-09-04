@@ -10,11 +10,11 @@ extra_javascript:
 
 markdown_extensions:
   - admonition
+  - pymdownx.details
   - pymdownx.arithmatex
-  - toc
   - smarty
+  - toc
   # - sane_lists
-  - admonition
   # - def_list
   # - mdx_gh_links:
   #     user: sblack4
